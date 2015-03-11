@@ -1,0 +1,6 @@
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\bin\Debug\GUIDGenerator.exe.config
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\bin\Debug\GUIDGenerator.exe
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\bin\Debug\GUIDGenerator.pdb
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\obj\Debug\GUIDGenerator.csprojResolveAssemblyReference.cache
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\obj\Debug\GUIDGenerator.exe
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\obj\Debug\GUIDGenerator.pdb

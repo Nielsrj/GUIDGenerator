@@ -1,0 +1,5 @@
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\bin\Release\GUIDGenerator.exe.config
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\bin\Release\GUIDGenerator.exe
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\bin\Release\GUIDGenerator.pdb
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\obj\Release\GUIDGenerator.exe
+C:\Source\Workspace\PD Test Automation\Tools\GUIDGenerator\GUIDGenerator\obj\Release\GUIDGenerator.pdb
